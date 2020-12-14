@@ -42,7 +42,7 @@ When("я нажимаю на селект {string}", (fieldName) => {
 });
 
 When("я нажимаю на текст {string}", (fieldName) => {
-    I.click({id: fieldName});
+    I.click({name: fieldName});
 });
 
 When('я нажимаю кнопку {string}', (button) => {

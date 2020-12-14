@@ -27,6 +27,6 @@
     И я ввожу "1994" в поле "year"
     И я выбираю файл "/uploads/Human.jpg" в поле "image"
     И я нажимаю на селект "demo-simple-select-outlined-label"
-    И я нажимаю на текст "demo-simple-select-outlined"
+    И я нажимаю на текст "testArtist"
     И я нажимаю кнопку "addAlbum"
     То я попадаю на страницу "/"
